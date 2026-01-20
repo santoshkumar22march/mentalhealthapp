@@ -1,4 +1,4 @@
-# Nila.ai (mentalhealthapp)
+# Nila.ai 
 
 A cross-platform mental health React Native app (Expo) with a small Python backend. The app offers chat, journaling, calming exercises, and crisis detection features. This repository contains the mobile app frontend, a lightweight backend, and integration code for Supabase and other services.
 
